@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://scontent.frga1-1.fna.fbcdn.net/v/t39.30808-6/300019620_580035326974660_4401353466156044707_n.jpg?stp=dst-jpg_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=mL53Ak45M8AQ7kNvgFIBesq&_nc_zt=23&_nc_ht=scontent.frga1-1.fna&_nc_gid=AlOzB6dLAFn6oWHsBqmj2BZ&oh=00_AYBP3Y65pE_xC5x9GjQettvC03L6cpqf0TrLxsZ1qIcjSA&oe=671B435A'); /* Reemplazar con la ruta de tu imagen de fondo */
+    background-size: 2600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    background-repeat: no-repeat; 
+    background-position: center center;
+    display: inline-block;
+}
+header {
+    text-align: center;
+}
+form {
+    background-color: #ce8b8bb0;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    width: 300px; 
+    background-position: center center;
+    backdrop-filter: blur(px);
+}
+ 
+button{
+    background-color: #e4c0c0;
+    padding: 4px;
+    border: 1px solid #7e6262 ;
+    border-radius: 10px;
+    box-shadow: 0 0px 4px rgba(0, 0, 0, 0.3);
+    width: 70px
+}
+input{
+    background-color: #1a1515;
+    padding: 4px;
+    margin-bottom: 7px;
+    border-radius: 60px;
+    border: 1px solid #7e6262 ;
+    width: 180px
+
+}
+ 
+main{
+    background-color: #680f0fd0;
+    padding: 300px;
+    border-radius: 10px;
+    box-shadow: 66 500px 66px rgba(0, 0, 0, 0.3);
+    width: 800px
+    
+}
+p, h1, h2{
+    color: #ffffff;
+}
