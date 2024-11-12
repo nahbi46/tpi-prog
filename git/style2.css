@@ -32,13 +32,13 @@ button{
     border: 1px solid #312424 ;
     border-radius: 10px;
     box-shadow: 0 0px 4px rgba(255, 244, 244, 0.3);
-    width: 70px
+    width: 80px
 }
 input{
     background-color: #000000;
     color: white;
     padding: 4px;
-    margin-bottom: 7px;
+    margin-bottom: 9px;
     border-radius: 60px;
     border: 2px solid #3b3131 ;
     width: 180px
@@ -57,3 +57,60 @@ main{
 p, h1, h2{
     color: #ffffff;
 }
+
+#inpu1 {
+    background-color: #000000;
+    color: white;
+    padding: 4px;
+    margin-bottom: 7px;
+    border-radius: 60px;
+    border: 2px solid #3b3131 ;
+    width: 80px
+}
+
+
+#inpu2 {
+    background-color: #000000;
+    color: white;
+    padding: 4px;
+    margin-bottom: 7px;
+    border-radius: 60px;
+    border: 2px solid #3b3131 ;
+    width: 80px
+}
+
+#select1{
+    margin-bottom: 9px;
+    background-color: #000000;
+    color: #797171;
+    padding: 3px;
+    border-radius: 60px;
+    border: 2px solid #524444 ;
+    width: 90px
+    
+}
+ 
+#select2{
+    margin-bottom: 9px;
+    background-color: #000000;
+    color: #797171;
+    padding: 3px;
+    border-radius: 60px;
+    border: 2px solid #524444 ;
+    width: 90px
+    
+    
+}
+ 
+
+ #select3{
+    margin-bottom: 9px;
+    background-color: #000000;
+    color: #797171;
+    padding: 3px;
+    border-radius: 60px;
+    border: 2px solid #524444 ;
+    width: 180px
+    
+}
+ 
